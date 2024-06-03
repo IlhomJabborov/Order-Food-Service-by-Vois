@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydub
+speechrecognition
+torch
+huggingface_hub
