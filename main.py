@@ -33,7 +33,7 @@ def recognize_speech_from_audio(file_path):
         print(f"Could not request results from Google Speech Recognition service; {e}")
         return None
 
-login(token="sizning_token_agar_kerak_bo'lsa", add_to_git_credential=True)
+login(token="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", add_to_git_credential=True)
 
 def randomize_seed_fn(seed: int) -> int:
     return random.randint(0, 999999)
